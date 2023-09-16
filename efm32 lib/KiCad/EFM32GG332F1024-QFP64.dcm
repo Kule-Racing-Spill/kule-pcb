@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EFM32GG332F1024-QFP64
+D Silicon Labs EFM32GG332F1024-QFP64, 32bit ARM Cortex M3 Microcontroller, 48MHz, 1024 kB Flash, 64-Pin TQFP
+K
+F https://www.silabs.com/products/mcu/32-bit/efm32-giant-gecko
+$ENDCMP
+#
+#End Doc Library
