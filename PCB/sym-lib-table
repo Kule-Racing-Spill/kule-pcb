@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Components_Library")(type "KiCad")(uri "${KIPRJMOD}/Components_Library.kicad_sym")(options "")(descr ""))
   (lib (name "ECS-3953M-400-BN-TR")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/ECS-3953M-400-BN-TR/ECS-3953M-400-BN-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "S25FL256LAGMFI003")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/LIB_S25FL256LAGMFI003/S25FL256LAGMFI003.kicad_sym")(options "")(descr ""))
 )
