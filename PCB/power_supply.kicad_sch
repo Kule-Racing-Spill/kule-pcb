@@ -666,6 +666,8 @@
     (uuid f70125b0-8ec7-441c-91e4-63cbf9a6fef7)
   )
 
+  (no_connect (at 144.78 116.84) (uuid 973bd9ec-7fb3-4905-8936-d783f49c2f8b))
+
   (wire (pts (xy 153.67 121.92) (xy 153.67 125.73))
     (stroke (width 0) (type default))
     (uuid 0030d7ad-c645-4ac3-82b8-433135dd646f)
@@ -1759,7 +1761,7 @@
     (property "Value" "TPS54294" (at 133.35 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 133.35 111.76 0)
+    (property "Footprint" "Package_SO:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm" (at 133.35 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.35 111.76 0)
@@ -1803,7 +1805,7 @@
     (property "Value" "TPS54325" (at 133.35 48.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 133.35 59.69 0)
+    (property "Footprint" "Package_SO:TSSOP-14-1EP_4.4x5mm_P0.65mm" (at 133.35 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 133.35 59.69 0)
