@@ -42,6 +42,23 @@
     )
   )
 
+  (sheet (at 120.65 85.09) (size 33.02 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e43e14ef-0971-4dbf-9758-48ad88cea06a)
+    (property "Sheetname" "FPGA" (at 120.65 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "fpga.kicad_sch" (at 120.65 112.3446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "PCB"
+        (path "/aa113cd6-c3ac-4890-9a84-1ea195994408" (page "4"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )

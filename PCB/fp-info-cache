@@ -1,4 +1,4 @@
-22217319977083273
+22208085490535077
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -342,13 +342,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-Button-kicad
-K12PBK15N
-K12PBK15N-2
-Switch
-0
-4
-4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -61025,13 +61018,6 @@ solder jumper open
 0
 5
 3
-KiCad
-QFP50P1200X1200X120-64N
-EFM32TQFP
-Hardware
-0
-64
-64
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -91888,31 +91874,3 @@ varistor
 0
 2
 2
-footprints
-ECS-3951M&slash_3953M_ECS
-
-ECS-3953M-400-B-TR 
-0
-4
-4
-footprints
-ECS-3951M&slash_3953M_ECS-L
-
-ECS-3953M-400-B-TR 
-0
-4
-4
-footprints
-ECS-3951M&slash_3953M_ECS-M
-
-ECS-3953M-400-B-TR 
-0
-4
-4
-joystick
-XDCR_COM-09032
-
-
-0
-14
-14

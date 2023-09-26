@@ -479,6 +479,10 @@
     [
       "6d6ebb76-19de-41e4-9a7d-528f4e5c1c0f",
       "microcontroller_unit"
+    ],
+    [
+      "e43e14ef-0971-4dbf-9758-48ad88cea06a",
+      "FPGA"
     ]
   ],
   "text_variables": {}
