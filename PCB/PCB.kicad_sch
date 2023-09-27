@@ -8,15 +8,24 @@
   )
 
 
-  (sheet (at 165.1 43.18) (size 33.02 27.94) (fields_autoplaced)
+  (wire (pts (xy 99.06 55.88) (xy 127 55.88))
+    (stroke (width 0) (type default))
+    (uuid 4a49c696-d388-4132-b1b8-5da1eb255304)
+  )
+
+  (sheet (at 127 41.91) (size 33.02 27.94) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 6d6ebb76-19de-41e4-9a7d-528f4e5c1c0f)
-    (property "Sheetname" "microcontroller_unit" (at 165.1 42.4684 0)
+    (property "Sheetname" "microcontroller_unit" (at 127 41.1984 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "mcu.kicad_sch" (at 165.1 71.7046 0)
+    (property "Sheetfile" "mcu.kicad_sch" (at 127 70.4346 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "5V" input (at 127 55.88 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid cf55fd44-4199-4def-a73f-361024b504c6)
     )
     (instances
       (project "PCB"
@@ -35,6 +44,10 @@
     (property "Sheetfile" "power_supply.kicad_sch" (at 76.2 66.6246 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
+    (pin "5V" input (at 99.06 55.88 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 7b4a77c3-38a8-4a5c-995d-b640f8602c3c)
+    )
     (instances
       (project "PCB"
         (path "/aa113cd6-c3ac-4890-9a84-1ea195994408" (page "2"))
@@ -42,11 +55,11 @@
     )
   )
 
-  (sheet (at 120.65 85.09) (size 33.02 26.67) (fields_autoplaced)
+  (sheet (at 120.65 86.36) (size 35.56 25.4) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid e43e14ef-0971-4dbf-9758-48ad88cea06a)
-    (property "Sheetname" "FPGA" (at 120.65 84.3784 0)
+    (property "Sheetname" "FPGA" (at 120.65 85.6484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "fpga.kicad_sch" (at 120.65 112.3446 0)
