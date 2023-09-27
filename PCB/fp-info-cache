@@ -1,4 +1,18 @@
-22208085490535077
+22230128908462316
+10118193-0001LF
+AMPHENOL_10118193-0001LF
+
+
+0
+11
+11
+0878311420_fpga-debub
+0878311420
+0878311420-2
+Connector
+0
+14
+14
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -54683,6 +54697,20 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ECS-3953M-400-BN-TR
+OSC_ECS-3953M-400-BN-TR
+
+
+0
+4
+4
+FTSH-110-01-L-DV-007
+SAMTEC_FTSH-110-01-L-DV-007
+
+
+0
+19
+19
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -55852,6 +55880,13 @@ heatsink
 0
 0
 0
+IS62C1024AL-35QLI-TR
+SOIC127P1412X305-32N
+
+
+0
+32
+32
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -62152,6 +62187,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LIB_S25FL256LAGMFI003
+SOIC127P1030X265-16N
+SOIC 16
+Integrated Circuit
+0
+16
+16
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -91097,6 +91139,13 @@ igbt diode module
 0
 25
 25
+USB1130-15-A_REVA
+GCT_USB1130-15-A_REVA
+
+
+0
+6
+6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -91874,3 +91923,45 @@ varistor
 0
 2
 2
+button
+K12PBK15N
+K12PBK15N-2
+Switch
+0
+4
+4
+efm32
+QFP50P1200X1200X120-64N
+EFM32TQFP
+Hardware
+0
+64
+64
+fpga
+BGA256C100P16X16_1700X1700X155
+
+
+0
+256
+256
+joystick
+XDCR_COM-09032
+
+
+0
+14
+14
+screenconnect
+62684402100ALF
+62684-402100ALF-1
+Connector
+0
+42
+42
+vga
+CONN_L77HDE15SD1CH4FVGA_AMP
+
+L77HDE15SD1CH4FVGA 
+0
+17
+16

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K12PBK15N
+D Pushbutton Switches Key Switch N.O. SPDT 0.01A
+K
+F https://www.ckswitches.com/media/1339/k12.pdf
+$ENDCMP
+#
+#End Doc Library
