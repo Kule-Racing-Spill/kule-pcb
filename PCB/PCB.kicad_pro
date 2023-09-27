@@ -483,6 +483,10 @@
     [
       "e43e14ef-0971-4dbf-9758-48ad88cea06a",
       "FPGA"
+    ],
+    [
+      "6d30650e-d74f-4c5b-9ee1-a7d862f438fe",
+      "VGA"
     ]
   ],
   "text_variables": {}

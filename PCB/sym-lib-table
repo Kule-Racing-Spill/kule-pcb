@@ -6,4 +6,5 @@
   (lib (name "IS62C1024AL-35QLI-TR")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/IS62C1024AL-35QLI-TR/IS62C1024AL-35QLI-TR.kicad_sym")(options "")(descr ""))
   (lib (name "FTSH-110-01-L-DV-007")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/FTSH-110-01-L-DV-007/FTSH-110-01-L-DV-007.kicad_sym")(options "")(descr ""))
   (lib (name "62684-402100ALF")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/screenconnect/62684-402100ALF.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-09-27_12-40-23")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/vga/2023-09-27_12-40-23.kicad_sym")(options "")(descr ""))
 )
