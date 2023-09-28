@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XC7A100T-1FTG256C
+D FPGA, ARTIX-7, 170 I/O, FTBGA-256; No. of Logic Blocks:15850; No. of Macrocells:101440; FPGA Family:Artix-7; Logic Case Style:FTBGA; No. of Pins:256Pins; No. of Speed Grades:1; Total RAM Bits:4860Kbit; No. of I/O s:170I/O s; Clock RoHS Compliant: Yes
+K
+F https://www.xilinx.com/support/documentation/data_sheets/ds181_Artix_7_Data_Sheet.pdf
+$ENDCMP
+#
+#End Doc Library
