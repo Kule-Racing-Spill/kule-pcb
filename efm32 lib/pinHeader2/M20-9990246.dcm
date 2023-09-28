@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M20-9990246
+D HARWIN  M20-9990246.  Board-To-Board Connector, Straight, 2.54 mm, 2 Contacts, Header, M20 Series, Through Hole
+K
+F https://cdn.harwin.com/pdfs/M20-999.pdf
+$ENDCMP
+#
+#End Doc Library

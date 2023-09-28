@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT1932ES6#TRMPBF
+D IC LED DRIVER RGLTR DIM TSOT23-6
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1932f.pdf
+$ENDCMP
+#
+#End Doc Library
