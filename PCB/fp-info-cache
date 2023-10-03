@@ -1,18 +1,4 @@
-22233520786690263
-10118193-0001LF
-AMPHENOL_10118193-0001LF
-
-
-0
-11
-11
-0878311420_fpga-debub
-0878311420
-0878311420-2
-Connector
-0
-14
-14
+22219015962493711
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -356,6 +342,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Button-kicad
+K12PBK15N
+K12PBK15N-2
+Switch
+0
+4
+4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -54697,20 +54690,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ECS-3953M-400-BN-TR
-OSC_ECS-3953M-400-BN-TR
-
-
-0
-4
-4
-FTSH-110-01-L-DV-007
-SAMTEC_FTSH-110-01-L-DV-007
-
-
-0
-19
-19
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -55880,13 +55859,6 @@ heatsink
 0
 0
 0
-IS62C1024AL-35QLI-TR
-SOIC127P1412X305-32N
-
-
-0
-32
-32
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -61053,6 +61025,13 @@ solder jumper open
 0
 5
 3
+KiCad
+QFP50P1200X1200X120-64N
+EFM32TQFP
+Hardware
+0
+64
+64
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -62187,13 +62166,6 @@ Yellow 5381 Series LED
 0
 2
 2
-LIB_S25FL256LAGMFI003
-SOIC127P1030X265-16N
-SOIC 16
-Integrated Circuit
-0
-16
-16
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -91139,13 +91111,6 @@ igbt diode module
 0
 25
 25
-USB1130-15-A_REVA
-GCT_USB1130-15-A_REVA
-
-
-0
-6
-6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -91923,27 +91888,27 @@ varistor
 0
 2
 2
-button
-K12PBK15N
-K12PBK15N-2
-Switch
+footprints
+ECS-3951M&slash_3953M_ECS
+
+ECS-3953M-400-B-TR 
 0
 4
 4
-efm32
-QFP50P1200X1200X120-64N
-EFM32TQFP
-Hardware
+footprints
+ECS-3951M&slash_3953M_ECS-L
+
+ECS-3953M-400-B-TR 
 0
-64
-64
-fpga_real
-BGA256C100P16X16_1700X1700X155
-FT(G)256
-Integrated Circuit
+4
+4
+footprints
+ECS-3951M&slash_3953M_ECS-M
+
+ECS-3953M-400-B-TR 
 0
-256
-256
+4
+4
 joystick
 XDCR_COM-09032
 
@@ -91951,31 +91916,10 @@ XDCR_COM-09032
 0
 14
 14
-ledDriver
-SOT95P280X100-6N
-LT1932ES6#TRMPBF
-Integrated Circuit
-0
-6
-6
-pinHeader2
-HDRV2W66P0X254_1X2_508X254X874P
-M20-9990246_1
-Connector
-0
-2
-2
-screenconnect
-62684402100ALF
-62684-402100ALF-1
-Connector
-0
-42
-42
-vga
-CONN_L77HDE15SD1CH4FVGA_AMP
+logo
+spheriokart
 
-L77HDE15SD1CH4FVGA 
+
 0
-17
-16
+0
+0
