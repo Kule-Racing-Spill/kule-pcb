@@ -10,4 +10,6 @@
   (lib (name "USB1130-15-A_REVA")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/USB1130-15-A_REVA/USB1130-15-A_REVA.kicad_sym")(options "")(descr ""))
   (lib (name "M20-9990246")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/pinHeader2/M20-9990246.kicad_sym")(options "")(descr ""))
   (lib (name "LT1932ES6#TRMPBF")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/ledDriver/LT1932ES6#TRMPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "FTS-102-02-F-DV-TR")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/4pinHeader/FTS-102-02-F-DV-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "FTSH-104-01-F-DV")(type "KiCad")(uri "/Users/computerman/Documents/NTNU/05_H23/TDT4295/kule-pcb/efm32 lib/8pinHeader/FTSH-104-01-F-DV.kicad_sym")(options "")(descr ""))
 )
